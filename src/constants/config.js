@@ -1,0 +1,2 @@
+export const API_KEY = "AIzaSyBiITzDcDGwZL8LaRVOEUQi7hIt8h9gGs8";
+export const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${API_KEY}`;
